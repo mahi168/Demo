@@ -1,0 +1,1 @@
+This is demo for pushing our project to github using Git in Ubuntu
